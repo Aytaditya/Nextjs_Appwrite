@@ -84,3 +84,7 @@ export class AppwriteService{
         }
     }
 }
+
+const appwriteService=new AppwriteService()
+
+export default appwriteService
